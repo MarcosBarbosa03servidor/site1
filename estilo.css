@@ -1,13 +1,7 @@
-body {
-    margin: 0;
-    padding: 0;
-    
-  }
-  canvas {
-    display: block;
-  }
-  p{
-    color:blueviolet;
-    font-size: 25px;
-  }
-  
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}

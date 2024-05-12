@@ -1,4 +1,4 @@
-html, body {
+body {
     margin: 0;
     padding: 0;
     background-color:red;
@@ -7,6 +7,6 @@ html, body {
     display: block;
   }
   p{
-    color:red;
+    color:red!important;
   }
   
